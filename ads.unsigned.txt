@@ -1,0 +1,25 @@
+! Homepage: http://lostmarble.github.com/adfilter
+! Title: ads
+! Expires: 5 days
+! Checksum:
+! Redirect:
+! Version: 1
+
+wangmeng.sogou.com/*
+wangmeng.baidu.com/*
+pos.baidu.com/*
+cpro.baidustatic.com/*
+*.tanx.com/*
+*.admin6.com/*
+*.91gg.cn/*
+*.duoduo.net/*
+*.clkservice.youdao.com/*
+*.mediav.com/*
+*.tbjfw.com/*
+*.9v.com/*
+
+zhidao.baidu.com##ASIDE[id="qb-side"][class="grid qb-side"]
+blog.sina.com.cn##INS[id="tanxssp-outer-conmm_15890324_2192376_11153352"]
+www.anysafer.com##IFRAME
+||d1.sina.com.cn/litong/tanx2014/$domain=blog.sina.com.cn
+
